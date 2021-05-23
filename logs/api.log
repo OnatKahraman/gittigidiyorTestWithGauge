@@ -1,0 +1,120 @@
+22-05-2021 18:50:30.927 [Gauge] [INFO] Watching directory: C:\Program Files\gittigidiyorTestWithGauge\specs
+22-05-2021 18:50:30.930 [Gauge] [DEBUG] Found 1 files
+22-05-2021 18:50:31.174 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-05-2021 18:50:31.174 [Gauge] [INFO] Initializing specs cache with 1 specs
+22-05-2021 18:50:31.174 [Gauge] [DEBUG] Adding specs from C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 18:50:31.175 [Gauge] [INFO] Initializing steps cache with 1 steps
+22-05-2021 18:50:31.175 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58526
+22-05-2021 18:50:39.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+22-05-2021 18:50:39.214 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+22-05-2021 18:50:39.215 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+22-05-2021 18:50:39.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+22-05-2021 18:50:39.216 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+22-05-2021 18:50:39.216 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+22-05-2021 18:50:39.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to the gittigidiyor"}
+22-05-2021 18:50:39.217 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to the gittigidiyor"  parameterizedStepValue:"Go to the gittigidiyor"}}
+22-05-2021 18:56:31.940 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage* Ensure installation instructions are available"}
+22-05-2021 18:56:31.940 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage* Ensure installation instructions are available"  parameterizedStepValue:"Open the Gauge homepage* Ensure installation instructions are available"}}
+22-05-2021 18:56:32.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage Ensure installation instructions are available"}
+22-05-2021 18:56:32.942 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage Ensure installation instructions are available"  parameterizedStepValue:"Open the Gauge homepage Ensure installation instructions are available"}}
+22-05-2021 18:56:32.951 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepageEnsure installation instructions are available"}
+22-05-2021 18:56:32.951 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepageEnsure installation instructions are available"  parameterizedStepValue:"Open the Gauge homepageEnsure installation instructions are available"}}
+22-05-2021 18:56:32.988 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepagesure installation instructions are available"}
+22-05-2021 18:56:32.988 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepagesure installation instructions are available"  parameterizedStepValue:"Open the Gauge homepagesure installation instructions are available"}}
+22-05-2021 18:56:33.259 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepagenstallation instructions are available"}
+22-05-2021 18:56:33.259 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepagenstallation instructions are available"  parameterizedStepValue:"Open the Gauge homepagenstallation instructions are available"}}
+22-05-2021 18:56:33.374 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepagestallation instructions are available"}
+22-05-2021 18:56:33.374 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepagestallation instructions are available"  parameterizedStepValue:"Open the Gauge homepagestallation instructions are available"}}
+22-05-2021 18:56:33.388 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepagellation instructions are available"}
+22-05-2021 18:56:33.388 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepagellation instructions are available"  parameterizedStepValue:"Open the Gauge homepagellation instructions are available"}}
+22-05-2021 18:56:34.195 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepages are available"}
+22-05-2021 18:56:34.195 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepages are available"  parameterizedStepValue:"Open the Gauge homepages are available"}}
+22-05-2021 18:56:34.445 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepagevailable"}
+22-05-2021 18:56:34.445 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepagevailable"  parameterizedStepValue:"Open the Gauge homepagevailable"}}
+22-05-2021 18:56:34.461 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepageailable"}
+22-05-2021 18:56:34.461 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepageailable"  parameterizedStepValue:"Open the Gauge homepageailable"}}
+22-05-2021 18:56:34.540 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepageable"}
+22-05-2021 18:56:34.540 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepageable"  parameterizedStepValue:"Open the Gauge homepageable"}}
+22-05-2021 18:56:34.600 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepageble"}
+22-05-2021 18:56:34.601 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepageble"  parameterizedStepValue:"Open the Gauge homepageble"}}
+22-05-2021 18:56:35.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepag"}
+22-05-2021 18:56:35.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepag"  parameterizedStepValue:"Open the Gauge homepag"}}
+22-05-2021 18:56:36.333 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the"}
+22-05-2021 18:56:36.333 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the"  parameterizedStepValue:"Open the"}}
+22-05-2021 18:56:36.451 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open th"}
+22-05-2021 18:56:36.451 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open th"  parameterizedStepValue:"Open th"}}
+22-05-2021 18:56:36.734 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open t"}
+22-05-2021 18:56:36.734 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open t"  parameterizedStepValue:"Open t"}}
+22-05-2021 18:56:37.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open"}
+22-05-2021 18:56:37.015 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open"  parameterizedStepValue:"Open"}}
+22-05-2021 18:56:37.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ope"}
+22-05-2021 18:56:37.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ope"  parameterizedStepValue:"Ope"}}
+22-05-2021 18:56:37.551 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Op"}
+22-05-2021 18:56:37.551 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Op"  parameterizedStepValue:"Op"}}
+22-05-2021 18:56:37.590 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"O"}
+22-05-2021 18:56:37.590 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"O"  parameterizedStepValue:"O"}}
+22-05-2021 18:56:38.901 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+22-05-2021 18:56:38.901 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+22-05-2021 18:56:42.350 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+22-05-2021 18:56:42.350 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+22-05-2021 18:56:44.359 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 18:56:44.364 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 18:56:44.366 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 18:56:44.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+22-05-2021 18:56:44.684 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+22-05-2021 18:56:45.572 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+22-05-2021 18:56:45.572 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+22-05-2021 18:56:47.257 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+22-05-2021 18:56:47.275 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{}}
+22-05-2021 18:56:47.296 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+22-05-2021 18:56:47.296 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+22-05-2021 18:56:58.997 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 18:56:58.998 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 18:56:58.999 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 19:01:09.958 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-05-2021 19:01:09.959 [Gauge] [INFO] Initializing specs cache with 1 specs
+22-05-2021 19:01:09.959 [Gauge] [DEBUG] Adding specs from C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 19:01:09.959 [Gauge] [INFO] Initializing steps cache with 1 steps
+22-05-2021 19:01:09.959 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58581
+22-05-2021 19:01:09.971 [Gauge] [INFO] Watching directory: C:\Program Files\gittigidiyorTestWithGauge\specs
+22-05-2021 19:01:09.971 [Gauge] [DEBUG] Found 1 files
+22-05-2021 20:24:40.337 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-05-2021 20:24:40.339 [Gauge] [INFO] Initializing specs cache with 1 specs
+22-05-2021 20:24:40.339 [Gauge] [DEBUG] Adding specs from C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:24:40.339 [Gauge] [INFO] Initializing steps cache with 1 steps
+22-05-2021 20:24:40.339 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58970
+22-05-2021 20:24:40.554 [Gauge] [INFO] Watching directory: C:\Program Files\gittigidiyorTestWithGauge\specs
+22-05-2021 20:24:40.554 [Gauge] [DEBUG] Found 1 files
+22-05-2021 20:24:51.673 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to the gittigidiyor"}
+22-05-2021 20:24:51.673 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to the gittigidiyor"  parameterizedStepValue:"Go to the gittigidiyor"}}
+22-05-2021 20:24:52.291 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+22-05-2021 20:24:52.291 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+22-05-2021 20:24:52.292 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+22-05-2021 20:24:52.292 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+22-05-2021 20:24:52.293 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+22-05-2021 20:24:52.293 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+22-05-2021 20:24:52.397 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+22-05-2021 20:24:52.397 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+22-05-2021 20:29:11.285 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-05-2021 20:29:11.286 [Gauge] [INFO] Initializing specs cache with 1 specs
+22-05-2021 20:29:11.286 [Gauge] [DEBUG] Adding specs from C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:29:11.286 [Gauge] [INFO] Initializing steps cache with 1 steps
+22-05-2021 20:29:11.286 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59061
+22-05-2021 20:29:11.374 [Gauge] [INFO] Watching directory: C:\Program Files\gittigidiyorTestWithGauge\specs
+22-05-2021 20:29:11.374 [Gauge] [DEBUG] Found 1 files
+22-05-2021 20:32:30.624 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:32:30.624 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:32:30.624 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:32:32.797 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:32:32.797 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:32:32.813 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:32:41.587 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:32:41.587 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:32:41.587 [Gauge] [INFO] Spec file added / modified: C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:55:28.905 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-05-2021 20:55:28.906 [Gauge] [INFO] Initializing specs cache with 1 specs
+22-05-2021 20:55:28.906 [Gauge] [DEBUG] Adding specs from C:\Program Files\gittigidiyorTestWithGauge\specs\example.spec
+22-05-2021 20:55:28.906 [Gauge] [INFO] Initializing steps cache with 1 steps
+22-05-2021 20:55:28.906 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59394
+22-05-2021 20:55:29.432 [Gauge] [INFO] Watching directory: C:\Program Files\gittigidiyorTestWithGauge\specs
+22-05-2021 20:55:29.433 [Gauge] [DEBUG] Found 1 files

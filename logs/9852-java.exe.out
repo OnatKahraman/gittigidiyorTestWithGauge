@@ -1,0 +1,63 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'test.chooseTest.setRandomChoose' and 'test.chooseTest.setRandomChoose'"}
+{"logLevel":"debug","message":"Found random choose in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.loginTest.loginControl' and 'test.loginTest.loginControl'"}
+{"logLevel":"debug","message":"Found correct password and user name ? in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.loginTest.clickButton' and 'test.loginTest.clickButton'"}
+{"logLevel":"debug","message":"Found Enter Login Button in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable' and 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable'"}
+{"logLevel":"debug","message":"Found Ensure installation instructions are available in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.homeTest.goToUrl' and 'test.homeTest.goToUrl'"}
+{"logLevel":"debug","message":"Found Go to the gittigidiyor in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.loginTest.setPassword' and 'test.loginTest.setPassword'"}
+{"logLevel":"debug","message":"Found Enter Password in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.secondTest.setSecondPage' and 'test.searchTest$secondTest.setSecondPage'"}
+{"logLevel":"debug","message":"Loading secondd pagevia reflected sources."}
+{"logLevel":"debug","message":"Comparing 'test.searchTest.setSearch' and 'test.searchTest.setSearch'"}
+{"logLevel":"debug","message":"Found Search bilgisayar in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.gotoGetStartedPage' and 'org.example.StepImplementation.gotoGetStartedPage'"}
+{"logLevel":"debug","message":"Found Go to Gauge Get Started Page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.implementation1' and 'org.example.StepImplementation.implementation1'"}
+{"logLevel":"debug","message":"Found Open the Gauge homepage in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.loginTest.setUserName' and 'test.loginTest.setUserName'"}
+{"logLevel":"debug","message":"Found Enter Username in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.loginTest.enterButton' and 'test.loginTest.enterButton'"}
+{"logLevel":"debug","message":"Found Enter Button in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tEnter Login Button : public void clickButton()"}
+{"logLevel":"debug","message":"\tEnter Username : public void setUserName()"}
+{"logLevel":"debug","message":"\tEnter Password : public void setPassword()"}
+{"logLevel":"debug","message":"\tOpen the Gauge homepage : public void implementation1()"}
+{"logLevel":"debug","message":"\tGo to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException"}
+{"logLevel":"debug","message":"\tGo to the gittigidiyor : public void goToUrl()"}
+{"logLevel":"debug","message":"\tcorrect password and user name ? : public void loginControl()"}
+{"logLevel":"debug","message":"\tsecondd page : public void setSecondPage()"}
+{"logLevel":"debug","message":"\trandom choose : public void setRandomChoose()"}
+{"logLevel":"debug","message":"\tEnsure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException"}
+{"logLevel":"debug","message":"\tEnter Button : public void enterButton()"}
+{"logLevel":"debug","message":"\tSearch bilgisayar : public void setSearch()"}
+{"logLevel":"debug","message":"gauge-java took 6051milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 6051"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 51447"}
+{"logLevel":"info","message":"Listening on port:51447"}
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 28501
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 23, 2021 11:44:08 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+test baslasin
+{"logLevel":"debug","message":"Executing 'Go to the gittigidiyor' using 'class test.homeTest.goToUrl"}
+test basladı
+{"logLevel":"debug","message":"Executing 'Search bilgisayar' using 'class test.searchTest.setSearch"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
