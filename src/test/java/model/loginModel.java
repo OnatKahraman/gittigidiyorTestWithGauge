@@ -36,7 +36,7 @@ public class loginModel extends Driver {
 
     public void setPassword() {
 
-      webDriver.findElement(txtPasswordField).sendKeys("Onat.2712");
+      webDriver.findElement(txtPasswordField).sendKeys("aaaaa1234");
     }
 
     public void clickButton() {
